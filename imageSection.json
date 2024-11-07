@@ -1,0 +1,15 @@
+{
+  "images": [
+    "iconWithBackground",
+    "logoWithoutBackground",
+    "logoWithBackground",
+    "iconWithoutBackground"
+  ],
+  "authorName": "Test",
+  "validImages": [
+    "logoWithBackground",
+    "iconWithBackground",
+    "iconWithoutBackground",
+    "logoWithoutBackground"
+  ]
+}

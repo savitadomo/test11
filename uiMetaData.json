@@ -1,0 +1,43 @@
+{
+  "name": "Copy Test USGS Community Supported Connector",
+  "connectorType": "datagrid",
+  "userId": 999291859,
+  "domoClientId": null,
+  "domoClientSecret": null,
+  "additionalInfo": "key1::DOMO::+PAmnUPnp5S4v6XJtwECKA==",
+  "reportLength": 5,
+  "days": 7,
+  "reports": [
+    "Past Hour",
+    "Past Day",
+    "Past 7 Days",
+    "Past 30 Days",
+    "Pull data from the last X day(s)"
+  ],
+  "advancedReports": null,
+  "guid": "2f722c01-6dd7-4503-8b78-62c72a782e28",
+  "publishPrivate": true,
+  "visibilityType": {
+    "label": null,
+    "value": "private"
+  },
+  "parameters": null,
+  "commands": null,
+  "showAdvanced": false,
+  "submittedVersion": 1,
+  "submittedMajorVersion": 0,
+  "publishedVersion": 0,
+  "workbenchEnabled": false,
+  "dataProviderCreated": false,
+  "description": null,
+  "tags": null,
+  "successResponseDefinition": null,
+  "errorResponseDefinition": null,
+  "updateCode": false,
+  "requestingCustomerId": null,
+  "ownerId": null,
+  "ownerCustomerId": null,
+  "parentGuid": "15f21deb-81ec-425a-8e9b-4eab69bd405e",
+  "testingProfiles": null,
+  "visible": true
+}

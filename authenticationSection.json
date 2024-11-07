@@ -1,0 +1,24 @@
+{
+  "type": "none",
+  "authCodeText": "var res = httprequest.get('https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson');  \n\nDOMO.log('res: ' + res);\n\nif(res.indexOf('FeatureCollection') > 0){\n  auth.authenticationSuccess();\n}\nelse{\n  auth.authenticationFailed('Error connecting to earthquake.usgs.gov');\n}\n",
+  "userName": null,
+  "password": null,
+  "apiKey": null,
+  "clientKey": null,
+  "clientSecret": null,
+  "authorizationURL": null,
+  "accessTokenURL": null,
+  "oauthUserName": null,
+  "oauthPassword": null,
+  "scope": null,
+  "customAccountFields": [
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
+  ],
+  "additionalParameters": null,
+  "tokenAddlParams": null,
+  "accesstokenMethod": null
+}
